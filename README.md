@@ -5,5 +5,5 @@ A small utility to compute the RCT (Relevance–Cost–Time) index for evaluatin
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/rct_index.git
+pip install git+https://github.com/tin-bulb/rct.git
 ```
